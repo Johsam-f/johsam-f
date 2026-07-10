@@ -1,4 +1,4 @@
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -25,4 +25,3 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/johsam-f">johsam-f</a></i></p>
